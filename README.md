@@ -12,6 +12,13 @@ Well, _*it never need happen again!*+
 
 With Scrapper.js, it's really clear when an element isn't complete! All you need to do is put 'class="scrapper"' on an element and it will look like a scrap of paper rather than a slick element!
 
+Installation
+------------
+
+You can either go manual and download src/scrapper.js, OR you can use [Bower](http://bower.io/) and enter:
+
+    bower install scrapper.js
+
 Usage
 -----
 
