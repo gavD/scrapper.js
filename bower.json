@@ -2,7 +2,7 @@
   "name": "scrapper.js",
   "homepage": "http://gavd.github.io/scrapper.js/",
   "description": "It's not done 'til it looks done! Manage your manager's expectations",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "keywords": [
     "javascript", "mockup", "prototyping"
   ],
