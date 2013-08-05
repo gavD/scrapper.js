@@ -1,6 +1,8 @@
 Scrapper.js
 ===========
 
+[View a demo!](http://gavd.github.io/scrapper.js/)
+
 Coding? Psh, that's the easy bit!
 ---------------------------------
 
@@ -63,3 +65,8 @@ I don't have the book to hand, but I'm almost certain this was a recommendation 
 In all seriousness, Scrapper.js may well look frivolous, but I genuinely believe that it can help you to manage the expectations of your colleagues. Remember, they have a job to do as well - if they think something looks ready, they may not realise that there's still a whole heap of stuff to do! Therefore, using Scrapper.js might well help you to avoid situation where people think stuff is done that's not really ready!
 
 A big part of Agile is "definition of done". Think carefully about what "done" means to you!
+
+Contributors
+------------
+
+A big thanks to [Steve Halford](https://github.com/stevehalford) for the pure CSS version - no images required!
